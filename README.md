@@ -2,25 +2,25 @@
 
 A Streamlit-based personal finance application designed to help users track, analyze, and manage their finances with ease. The app enables users to record income, expenses, and investments, while offering meaningful insights into their overall financial health.
 
-##✨ Features
+## ✨ Features
 
-###📌 Transaction Management
+### 📌 Transaction Management
 
 Add, view, and categorize income, expenses, and investments.
 
-###📌 Financial Overview
+### 📌 Financial Overview
 
 View total income, total expenses, net balance, total investments, and savings percentage.
 
-###📌 Savings Goal Evaluation
+### 📌 Savings Goal Evaluation
 
 Set a monthly savings goal and compare actual savings to the target.
 
 Receive helpful insights based on your financial performance.
 
-###📌 Analytics & Insights
+### 📌 Analytics & Insights
 
-##Identify:
+## Identify:
 
 Highest spending category
 
@@ -28,9 +28,9 @@ Most frequent category
 
 Total unique categories
 
-###📌 Interactive Charts
+### 📌 Interactive Charts
 
-##Visualize:
+## Visualize:
 
 Spending by category
 
@@ -38,7 +38,7 @@ Income vs. expense trends over time
 
 Built using Altair for clean and interactive graphics.
 
-###📌 String Analysis Tools
+### 📌 String Analysis Tools
 
 Analyze category text
 
@@ -46,7 +46,7 @@ Convert to uppercase
 
 Count occurrences of specific letters (useful for debugging or learning).
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3.x
 
@@ -56,9 +56,9 @@ Pandas – Data handling & manipulation
 
 Altair – Interactive visualizations
 
-##🚀 Running the Application
+## 🚀 Running the Application
 
-###Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-##📘 Usage
+## 📘 Usage
 
 Use the sidebar to add new transactions.
 
@@ -77,7 +77,7 @@ Explore charts and insights through dedicated tabs.
 
 Track your monthly savings goal and measure progress.
 
-##📄 License
+## 📄 License
 
 This project is for educational purposes and may be used or modified freely.
 
