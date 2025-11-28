@@ -45,9 +45,6 @@ Evaluate savings goals and track progress over time.
 License
 This project is for educational purposes and can be freely used and modified.
 
-pgsql
-Copy code
+# What I Learned
 
-This is **clean, professional, and concise**, perfect for your GitHub repo.  
-
-If you want, I can also **write a 1–2 sentence “short description”** for the GitHub repo itself that shows up under the repo name. It’ll make it look very polished. Do you want me to do that?
+Through this project, I gained hands-on experience in developing interactive web applications using Streamlit. I strengthened my skills in Python for data manipulation with Pandas, data visualization with Altair, and integrating backend functionality for transaction management. I also learned to implement financial calculations, goal evaluation logic, and insights generation, while focusing on user-friendly UI/UX design and modular, maintainable code structure. This project enhanced my understanding of combining programming, data analysis, and design to build practical, real-world applications.
